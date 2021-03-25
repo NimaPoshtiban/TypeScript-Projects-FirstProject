@@ -1,5 +1,5 @@
 # TypeScript-Projects-FirstProject
-My first type scrtipt project for learning basis of TS
+My first type script project for learning basis of TS
 ## What is it?
 It shows two marker at google map 
 {
